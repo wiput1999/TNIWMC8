@@ -140,7 +140,11 @@
 	color: #fff;
 }
 
-.contact-us-content > p > i{
+.contact-us-content > p > a {
+	color: #fff;
+}
+
+.contact-us-content > p > a > i {
 	margin-left: 0.5em;
 	margin-right: 0.5em;
 }
