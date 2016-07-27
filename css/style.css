@@ -115,6 +115,36 @@
 	margin-bottom: 1em;
 }
 
+.contact-us {
+	z-index: 1;
+	height: calc(100vh - 120px);
+	background-image: url(../images/contactus.png);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.contact-us-content {
+	z-index: 2;
+	padding: 1em 8% 3.5em 8%;
+	background-color: #303F9F;
+}
+
+.contact-us-content > h1 {
+	padding-top: calc(61px + 0.5em);
+	font-size: 3.3em;
+	margin-bottom: 1em;
+	color: #fff;
+}
+
+.contact-us-content > p {
+	color: #fff;
+}
+
+.contact-us-content > p > i{
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+}
+
 .footer {
 	height: 120px;
 	line-height: 120px;
