@@ -125,7 +125,7 @@
 
 .contact-us {
 	z-index: 1;
-	height: calc(100vh - 120px);
+	height: calc(100vh);
 	background-image: url(../images/contactus.png);
 	background-attachment: fixed;
 	background-size: cover;
@@ -158,6 +158,7 @@
 }
 
 .footer {
+	margin-top: -81px;
 	height: 120px;
 	line-height: 120px;
 	vertical-align: middle;
