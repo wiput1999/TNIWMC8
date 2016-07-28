@@ -1,3 +1,5 @@
+.gitignore
+prepros.cfg
 .DS_Store
 *.DS_Store
 */.DS_Store
