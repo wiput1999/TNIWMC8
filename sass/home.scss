@@ -4,6 +4,10 @@
 }
 
 /* Home CSS */
+body {
+	background-color: #303F9F;
+}
+
 .top {
 	margin-bottom: 0px;
 	height: calc(100vh);
@@ -135,6 +139,7 @@
 	z-index: 2;
 	padding: 1em 8% 3.5em 8%;
 	background-color: #303F9F;
+	margin-top: 1em;
 }
 
 .contact-us-content > h1 {
